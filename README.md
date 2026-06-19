@@ -1,10 +1,10 @@
-# VLSI Design and Laboratory 
+# KECE463: VLSI Design and Laboratory 
 ## Description of the Assignments and Projects
 
 | Projects | Contents |
 | -------- |:--------:|
-|Project01 |Designing a 64x64 matrix multiplier with memory control|
-|Project02 |Designing an area-efficient 16pt 2D-DCT module for JPEG compression|
+|Project01 |Designing a 64x64 Matrix Multiplier with Memory Control|
+|Project02 |Designing an Area-efficient 16pt 2D-DCT Module for JPEG Compression|
 
 | Labs  | Contents |
 | ------------- |:-------------:|
