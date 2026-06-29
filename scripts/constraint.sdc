@@ -1,0 +1,2 @@
+create_clock -name clk -period 12.5 [get_ports clk]
+set_max_area 0.0
